@@ -1,5 +1,5 @@
 # A Survey on Mahine Learning Assisted Heuristic Search for Combinatorial Optimization Problems
-This repository contains the sources for the summary table of our survey, available online at http://larskotthoff.github.io/assurvey/
+This repository contains the sources for the summary table of our survey, available online at https://yangmingzhou.github.io/Survey/
 
 ## Compiling
 
