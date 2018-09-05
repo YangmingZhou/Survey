@@ -1,6 +1,5 @@
 # A Survey on Mahine Learning Assisted Heuristic Search for Combinatorial Optimization Problems
-This repository contains the sources for the summary table of the algorithm
-selection survey, available online at http://larskotthoff.github.io/assurvey/
+This repository contains the sources for the summary table of our survey, available online at http://larskotthoff.github.io/assurvey/
 
 ## Compiling
 
@@ -23,19 +22,4 @@ if possible so that the entries group together nicely.
 
 If you find this reference useful, please cite
 
-Kotthoff, Lars. "Algorithm Selection for Combinatorial Search Problems: A Survey." AI Magazine, 2014.
-
-    @article{kotthoff_algorithm_2014,
-	  title = {Algorithm Selection for Combinatorial Search Problems: A survey},
-	  author = {Kotthoff, Lars},
-      journal = {{AI} Magazine},
-      volume = {35},
-      number = {3},
-      pages = {48--60},
-	  year = {2014}
-    }
-
 ## Contributors
-
-I'd like to thank Marius Lindauer, Kobi Gal, Tiago Cunha, and Akrem Benatia, who
-provided references for this summary.
