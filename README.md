@@ -1,5 +1,4 @@
-# Algorithm Selection for Combinatorial Search Problems: A survey
-
+# A Survey on Mahine Learning Assisted Heuristic Search for Combinatorial Optimization Problems
 This repository contains the sources for the summary table of the algorithm
 selection survey, available online at http://larskotthoff.github.io/assurvey/
 
